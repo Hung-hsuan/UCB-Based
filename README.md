@@ -9,7 +9,7 @@ Firstly, "UCB1.py" is the main function file.
 
 Secondly, preparing an excel file as shown in the figure below, in which 1000 pieces of data are needed to be prepared.
 
-![File Library](Hung-hsuan/UCB-Based/cache.png)
+![File Library](UCB-Based/cache.png)
 
 
 # Maintainer
