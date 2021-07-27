@@ -7,7 +7,7 @@ Python 3.5+
 # How to use
 Firstly, "UCB1.py" is the main function file.
 
-Secondly, preparing an excel file as shown in the figure below, in which 1000 pieces of data are needed to be prepared.
+Secondly, preparing an excel file as shown in the figure below, in which 1000 pieces of data are needed to be prepared. The four columns of data are:id, size, requested times and type.
 
 ![File Library](cache.png)
 
